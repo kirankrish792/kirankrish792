@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**kirankrish792/kirankrish792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# HEY VISITOR 
 ```python
 
 from dataclasses import dataclass
