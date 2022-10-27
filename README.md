@@ -16,7 +16,7 @@ class Bio(metaclass=Meta):
     designation : str = "Btech Computer Science"
     college     : str = "College of Engineering Vadakara"
     base        : str = "Kerala, India"
-    Website     : str = "https://kiranks.000webhostapp.com/"
+    Website     : str = "http://kiranks.me/"
 
 
 class Stack(metaclass=Meta):
